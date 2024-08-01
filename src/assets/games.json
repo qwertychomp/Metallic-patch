@@ -15,7 +15,7 @@
     },
     {
         "author": "The Game Homepage",
-        "description": "Avalanche is a fun little game where try to avoid falling objects as you jump higher and higher! Are you a towelette, or maybe a marshmallow? Whatever the case, there are huge, square bolts to dodge. Can you avoid this avalanche?",
+        "description": "Avalanche is a fun little game where you try to avoid falling objects as you jump higher and higher! Are you a towelette, or maybe a marshmallow? Whatever the case, there are huge, square bolts to dodge. Can you avoid this avalanche?",
         "url": "/cdn/flash.html?id=avalanche",
         "icon": "/cdn/images/avalanche.png?h=180&w=320",
         "name": "Avalanche"
@@ -29,7 +29,7 @@
     },
     {
         "author": "Jmtb02",
-        "description": "Who needs gameplay when you have ACHIEVEMENTS? Don't worry about beating levels, finding ways t' kill enemies, or beating the final boss… there are none. Focus solely on your ultimate destiny… doing random tasks that have nothing to do with anything. Metagame yourself with ease! Self-satisfaction never felt so… artificial!",
+        "description": "Who needs gameplay when you have ACHIEVEMENTS? Don't worry about beating levels, finding ways to kill enemies, or beating the final boss… there are none. Focus solely on your ultimate destiny… doing random tasks that have nothing to do with anything. Metagame yourself with ease! Self-satisfaction never felt so… artificial!",
         "url": "/cdn/flash.html?id=achievement-unlocked",
         "icon": "/cdn/images/achievement-unlocked.png?h=180&w=320",
         "name": "Achievement Unlocked"
@@ -50,7 +50,7 @@
     },
     {
         "author": "Taito Games",
-        "description": "Arkanoid is a game similar to break out where you move the paddle to hit the ball.",
+        "description": "Arkanoid is a game similar to Breakout where you move the paddle to bounce the ball and break colored bricks.",
         "url": "/cdn/flash.html?id=arkanoid",
         "icon": "/cdn/images/arkanoid.png?h=180&w=320",
         "name": "Arkanoid"
